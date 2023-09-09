@@ -1,4 +1,4 @@
-package com.um.pruebaUM5.entidades;
+package com.pruebaum.Clase02.entidades;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
