@@ -1,6 +1,6 @@
-package com.um.controllerConRepo.repositorios;
+package com.um.Project.repositorios;
 
-import com.um.controllerConRepo.entidades.Persona;
+import com.um.Project.entidades.Persona;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

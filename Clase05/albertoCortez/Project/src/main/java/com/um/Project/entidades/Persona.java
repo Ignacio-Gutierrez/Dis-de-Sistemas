@@ -1,4 +1,4 @@
-package com.um.controllerConRepo.entidades;
+package com.um.Project.entidades;
 
 import jakarta.persistence.*;
 import lombok.*;
